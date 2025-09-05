@@ -166,7 +166,6 @@ section{
     background-size: cover;
     transition: filter 0.5s ease, transform 0.55s ease;
     border-radius: 10px;
-    /* flex: 1; */
     filter: 
     brightness(70%)
     contrast(200%)
@@ -178,7 +177,7 @@ section{
 }
 .about-img:hover{
     filter: none;
-    transform: rotateX(-10deg) rotateY(10deg);
+    transform: translateY(-20px);
 }
 
 .about-right{
