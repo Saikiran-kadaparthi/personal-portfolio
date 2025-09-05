@@ -4,7 +4,7 @@ This is my personal portfolio built with **HTML & CSS**.
 It currently works best on desktop screens — mobile/tablet responsiveness is in progress.  
 
 ## 🌐 Live Demo
-
+https://saikiran-kadaparthi-personalportfolio.netlify.app/
 ## 🚀 Tech Stack
 - HTML5
 - CSS3
